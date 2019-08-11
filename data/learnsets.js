@@ -451,6 +451,8 @@ let BattleLearnsets = {
 		workup: ["7M"],
 	}},
 	charizard: {learnset: {
+		revenge: ["7M"],
+		endeavor: ["7M"],
 		aerialace: ["7M", "6M", "5M", "4M", "3M"],
 		aircutter: ["4T"],
 		airslash: ["7L1", "6L1", "6S2", "6S1", "5L1", "4L1"],
