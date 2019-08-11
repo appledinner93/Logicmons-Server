@@ -741,6 +741,9 @@ let BattleLearnsets = {
 		zenheadbutt: ["7T", "6T", "5T", "4T"],
 	}},
 	blastoise: {learnset: {
+		heavyslam: ["7M"],
+		iron head: ["7M"],
+		shellsmash: ["7M"],
 		aquatail: ["7T", "7L33", "6T", "6L32", "5T", "5L32", "4T", "4L32"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		avalanche: ["4M"],
@@ -1151,6 +1154,7 @@ let BattleLearnsets = {
 		workup: ["7M", "5M"],
 	}},
 	pidgeot: {learnset: {
+		extremespeed: ["7M"],
 		aerialace: ["7M", "6M", "5M", "4M", "3M"],
 		agility: ["7L32", "7V", "6L32", "5L32", "4L32", "3L48"],
 		aircutter: ["4T"],
