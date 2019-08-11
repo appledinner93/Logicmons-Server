@@ -55,6 +55,7 @@ let Formats = [
 		mod: 'logic',
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
 		banlist: ['Uber', 'Arena Trap', 'Power Construct', 'Shadow Tag', 'Baton Pass'],
+		unbanlist: ['Deoxys']
 	},
 	{
 		name: "[Gen 7] OU (Blitz)",
