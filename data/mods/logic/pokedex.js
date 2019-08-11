@@ -1232,7 +1232,7 @@ let BattlePokedex = {
 	golduck: {
 		num: 55,
 		species: "Golduck",
-		types: ["Water", "Psychic"}],
+		types: ["Water", "Psychic"],
 		baseStats: {hp: 80, atk: 82, def: 78, spa: 95, spd: 80, spe: 85},
 		abilities: {0: "Scrappy", 1: "Cloud Nine", H: "Swift Swim"},
 		heightm: 1.7,
