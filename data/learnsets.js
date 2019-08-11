@@ -742,7 +742,7 @@ let BattleLearnsets = {
 	}},
 	blastoise: {learnset: {
 		heavyslam: ["7M"],
-		iron head: ["7M"],
+		ironhead: ["7M"],
 		shellsmash: ["7M"],
 		aquatail: ["7T", "7L33", "6T", "6L32", "5T", "5L32", "4T", "4L32"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
