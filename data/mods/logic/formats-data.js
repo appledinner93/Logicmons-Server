@@ -4770,7 +4770,7 @@ let BattleFormatsData = {
 			{"generation": 6, "level": 80, "moves": ["cosmicpower", "recover", "psychoboost", "hyperbeam"]},
 		],
 		eventOnly: true,
-		tier: "Uber",
+		tier: "OU",
 		doublesTier: "(DUU)",
 	},
 	deoxysattack: {
