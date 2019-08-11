@@ -13097,6 +13097,7 @@ let BattleLearnsets = {
 		whirlpool: ["7V", "4M"],
 	}},
 	kingdra: {learnset: {
+		hurricane: ["7M"],
 		agility: ["7L38", "7V", "6L23", "5L23", "4L23", "3L40", "3S0"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		blizzard: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -17559,6 +17560,7 @@ let BattleLearnsets = {
 		workup: ["7M"],
 	}},
 	typhlosion: {learnset: {
+		explosion: ["7M"],
 		aerialace: ["7M", "6M", "5M", "4M", "3M"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		blastburn: ["7T", "6T", "5T", "4T"],
@@ -18482,6 +18484,8 @@ let BattleLearnsets = {
 		xscissor: ["7M", "6M", "5M"],
 	}},
 	ariados: {learnset: {
+		bite: ["7M"],
+		crunch: ["7M"],
 		absorb: ["7L5", "7L1"],
 		agility: ["7L37", "7V", "6L37", "5L37", "4L37", "3L53"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
@@ -19295,6 +19299,7 @@ let BattleLearnsets = {
 		zapcannon: ["7V"],
 	}},
 	ampharos: {learnset: {
+		tailglow: ["7M"],
 		afteryou: ["7T", "6T", "5T"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		bodyslam: ["3T"],
@@ -20876,6 +20881,8 @@ let BattleLearnsets = {
 		tickle: ["3S0"],
 	}},
 	wobbuffet: {learnset: {
+		metalburst: ["7M"],
+		taunt: ["7M"],
 		charm: ["5D"],
 		counter: ["7L1", "7V", "6L1", "6S3", "6S2", "5L1", "4L1", "3L1", "3S1", "3S0"],
 		destinybond: ["7L1", "7V", "6L1", "5L1", "4L1", "3L1", "3S1", "3S0"],
@@ -21130,6 +21137,9 @@ let BattleLearnsets = {
 		zapcannon: ["7L60", "7L1", "6L1", "5L64", "4L62", "3L31"],
 	}},
 	dunsparce: {learnset: {
+		gunkshot: ["7M"],
+		sludgebomb: ["7M"],
+		sludgewave: ["7M"],
 		agility: ["7E", "6E", "5E", "4E"],
 		airslash: ["7L43", "7L41"],
 		ancientpower: ["7L18", "7L16", "7E", "7V", "6L19", "6E", "5L48", "5E", "4T", "4L41", "4E", "3E"],
