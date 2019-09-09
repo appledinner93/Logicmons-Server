@@ -28188,4 +28188,4 @@ let BattleLearnsets = {
 		calmmind: ["7M", "6M", "6S3", "5M", "4M", "3M"],
 		captivate: ["7E", "6E", "5E", "4M"],
 		confide: ["7M", "6M"],
-		confuseray: ["7L3
+		confuseray: ["7L3"],
