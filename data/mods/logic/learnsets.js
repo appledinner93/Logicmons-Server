@@ -51175,6 +51175,8 @@ let BattleLearnsets = {
 		zenheadbutt: ["7T", "6T"],
 	}},
 	delphox: {learnset: {
+		focusblast: ["7M"],
+		thunderbolt: ["7M"],
 		allyswitch: ["7T"],
 		attract: ["7M", "6M"],
 		blastburn: ["7T", "6T"],
@@ -52054,6 +52056,7 @@ let BattleLearnsets = {
 		yawn: ["7E", "6E"],
 	}},
 	pyroar: {learnset: {
+		boomburst: ["7M"],
 		attract: ["7M", "6M"],
 		bounce: ["7T", "6T"],
 		bulldoze: ["7M", "6M"],
@@ -52539,6 +52542,7 @@ let BattleLearnsets = {
 		zenheadbutt: ["7T", "6T"],
 	}},
 	pangoro: {learnset: {
+		closecombat: ["7M"],
 		aerialace: ["7M", "6M"],
 		armthrust: ["7L7", "7L1", "6L7"],
 		attract: ["7M", "6M"],
@@ -52967,6 +52971,7 @@ let BattleLearnsets = {
 		wideguard: ["7E", "6E"],
 	}},
 	doublade: {learnset: {
+		strengthsap: ["7M"],
 		aerialace: ["7M", "7L22", "6M", "6L22"],
 		afteryou: ["7T", "6T"],
 		attract: ["7M", "6M"],
@@ -53664,6 +53669,7 @@ let BattleLearnsets = {
 		waterpulse: ["7T", "7L25", "6T", "6L25"],
 	}},
 	dragalge: {learnset: {
+		acidspray: ["7M"],
 		acid: ["7L15", "6L15"],
 		aquatail: ["7T", "7L35", "6T", "6L35"],
 		attract: ["7M", "6M"],
@@ -53719,6 +53725,7 @@ let BattleLearnsets = {
 		waterpulse: ["7T", "7L25", "6T", "6L25"],
 	}},
 	clauncher: {learnset: {
+		agility: ["7M"],
 		aquajet: ["7L43", "7E", "6L43", "6E"],
 		aquatail: ["7T", "6T"],
 		attract: ["7M", "6M"],
@@ -54150,6 +54157,7 @@ let BattleLearnsets = {
 		zenheadbutt: ["7T", "6T"],
 	}},
 	aurorus: {learnset: {
+		auroraveil: ["7M"],
 		ancientpower: ["7L26", "6L26"],
 		aquatail: ["7T", "6T"],
 		attract: ["7M", "6M"],
@@ -54572,6 +54580,8 @@ let BattleLearnsets = {
 		waterpulse: ["7T", "6T"],
 	}},
 	goodra: {learnset: {
+		hornattack: ["7M"],
+		megahorn: ["7M"],
 		absorb: ["7L5", "7L1", "6L5"],
 		aquatail: ["7T", "7L1", "6T", "6L50"],
 		attract: ["7M", "6M"],
@@ -54636,6 +54646,7 @@ let BattleLearnsets = {
 		waterpulse: ["7T", "6T"],
 	}},
 	klefki: {learnset: {
+		healbell: ["7M"],
 		astonish: ["7L8", "6L8"],
 		attract: ["7M", "6M"],
 		calmmind: ["7M", "6M"],
@@ -54907,6 +54918,7 @@ let BattleLearnsets = {
 		worryseed: ["7T", "7L11", "6T", "6L11"],
 	}},
 	gourgeist: {learnset: {
+		perishsong: ["7M"],
 		allyswitch: ["7T"],
 		astonish: ["7L1", "6L1"],
 		attract: ["7M", "6M"],
@@ -55234,6 +55246,7 @@ let BattleLearnsets = {
 		xscissor: ["7M", "6M"],
 	}},
 	xerneas: {learnset: {
+		earthpower: ["7M"],
 		aromatherapy: ["7L1", "6L1", "6S1"],
 		aurorabeam: ["7L10", "6L10"],
 		block: ["7T", "6T"],
