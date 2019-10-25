@@ -11530,7 +11530,7 @@ let BattlePokedex = {
 	},
 	xerneas: {
 		num: 716,
-		species: "Xerneas",
+		species: "xerneas",
 		types: ["Fairy"],
 		gender: "N",
 		baseStats: {hp: 126, atk: 131, def: 95, spa: 131, spd: 98, spe: 99},
